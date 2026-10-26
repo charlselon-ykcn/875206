@@ -1,0 +1,121 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "875206",
+  "templateId": 898,
+  "owner": "adunext",
+  "slug": "cartoon-explainer",
+  "website": "https://motiongit.com/@adunext/cartoon-explainer",
+  "version": "0.1.0-alpha8",
+  "technical": {
+    "en": [
+      "Declared runtime profile: native-python-node/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project."
+    ],
+    "zh": [
+      "声明的运行配置：native-python-node/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。"
+    ]
+  },
+  "checkedAt": "2026-10-26",
+  "availability": "demo-only",
+  "title": {
+    "en": "Hand-Drawn Cartoon Explainer",
+    "zh": "卡通讲解风"
+  },
+  "summary": {
+    "en": "Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.",
+    "zh": "手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。"
+  },
+  "subtitle": {
+    "en": "Hand-Drawn Cartoon Explainer",
+    "zh": "卡通讲解风"
+  },
+  "category": {
+    "en": "talk",
+    "zh": "talk"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "durationSeconds": 275.266667,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4",
+    "zh": "https://motiongit.com/@adunext/cartoon-explainer?lang=zh",
+    "poster": "https://motiongit.com/media/covers/898/draft-zh-2963c6828c9d.jpg"
+  },
+  "materials": [
+    {
+      "en": "Your topic, script and facts to preserve.",
+      "zh": "本期主题、文稿与需要准确保留的信息。",
+      "required": true
+    },
+    {
+      "en": "Your current talking-head video with its original audio for the native presenter workflow.",
+      "zh": "原生口播流程使用的本期人物视频与原声。",
+      "required": false
+    },
+    {
+      "en": "The current voice recording or your narration preference for this production.",
+      "zh": "本期配音文件，或是否需要配音的安排。",
+      "required": false
+    },
+    {
+      "en": "A transcript or SRT matching the current narration/video.",
+      "zh": "与本期口播匹配的文稿或 SRT 字幕。",
+      "required": false
+    },
+    {
+      "en": "Your photos and a title for this work.",
+      "zh": "这次要呈现的照片与作品标题。",
+      "required": false
+    },
+    {
+      "en": "A licensed music track or your preference for music in this production.",
+      "zh": "本期已授权配乐，或本期是否需要配乐的偏好。",
+      "required": false
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "Declared runtime profile: native-python-node/1. Check the downloaded package for exact tools and setup steps.",
+      "zh": "声明的运行配置：native-python-node/1。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved."
+    ],
+    "zh": [
+      "开场标题与计数",
+      "补充说明",
+      "角色与反馈",
+      "框架与流程",
+      "风格选择",
+      "细节与时间线",
+      "制作模式",
+      "工作区与分类"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 60 fps; default demo duration is 275.267 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes."
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，60 fps；默认样片 275.267 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
