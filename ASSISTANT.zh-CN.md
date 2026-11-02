@@ -3,8 +3,8 @@
 手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。
 
 模板与完整下载: https://motiongit.com/@adunext/cartoon-explainer
-版本: 0.1.0-alpha8
-Demo 已公开，模板下载即将开放。
+版本: 0.1.1-alpha.1
+下载已开放，当前许可见模板页面与下载包。
 
 ## 技术资料
 

@@ -3,8 +3,8 @@
 Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.
 
 Template & full download: https://motiongit.com/@adunext/cartoon-explainer
-Version: 0.1.0-alpha8
-Demo available; template download coming soon.
+Version: 0.1.1-alpha.1
+Download available; current terms are listed with the package.
 
 ## Technical reference
 

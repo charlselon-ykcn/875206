@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "cartoon-explainer",
   "website": "https://motiongit.com/@adunext/cartoon-explainer",
-  "version": "0.1.0-alpha8",
+  "version": "0.1.1-alpha.1",
   "technical": {
     "en": [
       "Declared runtime profile: native-python-node/1.",
@@ -16,8 +16,8 @@
       "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。"
     ]
   },
-  "checkedAt": "2026-10-26",
-  "availability": "demo-only",
+  "checkedAt": "2026-11-02",
+  "availability": "download-available",
   "title": {
     "en": "Hand-Drawn Cartoon Explainer",
     "zh": "卡通讲解风"

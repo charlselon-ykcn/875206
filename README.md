@@ -4,12 +4,12 @@
 
 Hand-drawn cartoon explanations, step-by-step demonstrations and native transitions. Beta: adaptation to new scripts is still being improved.
 
-**16:9 · 1920 × 1080 · 60 fps · v0.1.0-alpha8** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v0.1.1-alpha.1** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/cartoon-explainer)**
 https://motiongit.com/@adunext/cartoon-explainer
 
-Demo available; template download coming soon.
+Download available; current terms are listed with the package.
 
 ## Demo
 

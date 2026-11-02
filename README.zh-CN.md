@@ -4,12 +4,12 @@
 
 手绘卡通讲解、步骤演示与原生转场。内测版，新文案适配仍在完善。
 
-**16:9 · 1920 × 1080 · 60 fps · v0.1.0-alpha8** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v0.1.1-alpha.1** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/cartoon-explainer)**
 https://motiongit.com/@adunext/cartoon-explainer
 
-Demo 已公开，模板下载即将开放。
+下载已开放，当前许可见模板页面与下载包。
 
 ## Demo
 
